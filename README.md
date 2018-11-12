@@ -98,3 +98,4 @@ Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 11%, samtals 22
 ---
 
 > Útgáfa 0.1
+# v9
